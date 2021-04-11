@@ -1,0 +1,220 @@
+nav {
+    font-family: "Open Sans", arial, "Apple SD Gothic Neo", "Noto Sans CJK KR", "본고딕", "KoPubDotum", "나눔바른고딕", "나눔고딕", "NanumGothic", "맑은고딕", "Malgun Gothic", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none none rgb(236,237,239);
+    word-spacing: 0px;
+
+    background-color: #008275;
+    background-position: 0% 0%;
+    color: #ECEEEF;
+
+    height:42px;
+    width: 1300px;
+    margin: 0 302px 0 302px;
+    padding: 0 16px 0 16px;
+    max-width: 1300px;
+
+    position:relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+}
+.nav {
+    font-family: "Open Sans", arial, "Apple SD Gothic Neo", "Noto Sans CJK KR", "본고딕", "KoPubDotum", "나눔바른고딕", "나눔고딕", "NanumGothic", "맑은고딕", "Malgun Gothic", sans-serif;
+    font-size: 14.4px;
+    line-height: 21.6px;
+    text-decoration: none none rgb(55,58,60);
+    word-spacing: 0px;
+
+    background-color: #008275;
+    background-position: 0% 0%;
+    color: #373A3C;
+
+    height:42px;
+    width: 1903px;
+
+    display: block;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+}
+span.t {
+    font-family: "Open Sans", arial, "Apple SD Gothic Neo", "Noto Sans CJK KR", "본고딕", "KoPubDotum", "나눔바른고딕", "나눔고딕", "NanumGothic", "맑은고딕", "Malgun Gothic", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none none rgb(255,255,255);
+    text-align: left;
+    word-spacing: 0px;
+
+    background-position: 0% 0%;
+    color: #ffffff;
+
+    height:auto;
+    width: auto;
+    margin: 0 0 0 5px;
+
+    display: inline;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+}
+nav a {
+    font-family: "Open Sans", arial, "Apple SD Gothic Neo", "Noto Sans CJK KR", "본고딕", "KoPubDotum", "나눔바른고딕", "나눔고딕", "NanumGothic", "맑은고딕", "Malgun Gothic", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none none rgb(236,237,239);
+    text-align: left;
+    word-spacing: 0px;
+
+    background-color: #008275;
+    background-position: 0% 0%;
+    color: #ECEEEF;
+
+    height:41.5938px;
+    width: auto;
+    padding: 10px 11px 8px 11px;
+
+    display: block;
+    cursor: pointer;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+    float:left;
+}
+nav a.b:hover {
+    font-family: "Open Sans", arial, "Apple SD Gothic Neo", "Noto Sans CJK KR", "본고딕", "KoPubDotum", "나눔바른고딕", "나눔고딕", "NanumGothic", "맑은고딕", "Malgun Gothic", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none none rgb(236,237,239);
+    text-align: left;
+    word-spacing: 0px;
+
+    background-color: #38a58a;
+    background-position: 0% 0%;
+    color: #ECEEEF;
+
+    height:41.5938px;
+    width: auto;
+    padding: 10px 11px 8px 11px;
+
+    display: block;
+    cursor: pointer;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+    float:left;
+}
+nav a.b {
+    font-family: "Open Sans", arial, "Apple SD Gothic Neo", "Noto Sans CJK KR", "본고딕", "KoPubDotum", "나눔바른고딕", "나눔고딕", "NanumGothic", "맑은고딕", "Malgun Gothic", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none none rgb(236,237,239);
+    text-align: left;
+    word-spacing: 0px;
+
+    background-color: #008275;
+    background-position: 0% 0%;
+    color: #ECEEEF;
+
+    height:41.5938px;
+    width: auto;
+    padding: 10px 11px 8px 11px;
+
+    display: block;
+    cursor: pointer;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+    float:left;
+}
+#people {
+    float:right;
+    display: inline-block;
+}
+form {
+    float:right;
+}
+input {
+    font-family: Arial;
+    font-size: 14.4px;
+    text-decoration: none solid rgb(85, 89, 92);
+    word-spacing: 0px;
+
+    background-color: #FFFFFF;
+    background-position: 0% 0%;
+    color: #55595C;
+
+    height: 41.9062px;
+    width: 220px;
+    border: 1px solid #CCCCCC;
+    padding: 4px 8px 4px 8px;
+
+    display: inline-block;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+}
+button {
+    font-family: Arial;
+    font-size: 19.2;
+    line-height: 28.8;
+    text-decoration: none solid rgb(0, 0, 0);
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    word-spacing: 0px;
+
+    background-color: #ffffff;
+    background-position: 0% 0%;
+    color: #000000;
+    cursor: pointer;
+
+    height: 42;
+    width: 35;
+    border: 1px solid #adadad;
+    margin: -4; 
+
+    display: inline-block;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+}
+button:hover {
+    font-family: Arial;
+    font-size: 19.2;
+    line-height: 28.8;
+    text-decoration: none solid rgb(0, 0, 0);
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    word-spacing: 0px;
+
+    background-color: #E6E6E6;
+    background-position: 0% 0%;
+    color: #000000;
+
+    height: 42;
+    width: 35;
+    border: 1px solid #adadad;
+    margin: -4; 
+
+    display: inline-block;
+
+    transform: none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+}
